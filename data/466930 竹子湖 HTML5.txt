@@ -1,0 +1,492 @@
+
+	<table id="MyTable" border="0" cellpadding="10" cellspacing="0">
+	<tbody>
+	<tr class="first_tr">
+		<th width="10px">&nbsp;</th>
+		<th colspan="2">Press</th>
+		<th>temperature</th>	
+		<th>dew point</th>	
+		<th>RH</th>	
+		<th colspan="4">WD/WS</th>	
+		<th colspan="2">Precp</th>
+		<th colspan="2">SunShine</th>		
+		<th>visibility</th>
+	 </tr>
+	 <tr class="second_tr">
+		<th>觀測時間<br>(LST)<br>ObsTime</th>
+		<th>測站氣壓<br>(hPa)<br>StnPres</th>
+		<th>海平面氣壓<br>(hPa)<br>SeaPres</th>
+		<th>氣溫<br>(℃)<br>Temperature</th>	
+		<th>露點溫度<br>(℃)<br>Td dew point</th>	
+		<th>相對溼度<br>(%)<br>RH</th>	
+		<th>風速<br>(m/s)<br>WS</th>	
+		<th>風向<br>(360degree)<br>WD</th>	
+		<th>最大陣風<br>(m/s)<br>WSGust</th>	
+		<th>最大陣風風向<br>(360degree)<br>WDGust</th>	
+		<th>降水量<br>(mm)<br>Precp</th>	
+		<th>降水時數<br>(hr)<br>PrecpHour </th>	
+		<th>日照時數<br>(hr)<br>SunShine</th>	
+		<th>全天空日射量<br>(MJ/㎡)<br>GloblRad</th>	
+		<th>能見度<br>(km)<br>Visb</th>
+	 </tr>
+	 
+	 
+	 
+	 <tr>
+		<td nowrap="">1</td>
+		<td>947.9&nbsp;</td>
+		<td>1017.2&nbsp;</td>
+		<td>20.9&nbsp;</td>	
+		<td>19.4&nbsp;</td>	
+		<td>91&nbsp;</td>	
+		<td>3.7&nbsp;</td>	
+		<td>20&nbsp;</td>	
+		<td>10.4&nbsp;</td>	
+		<td>350&nbsp;</td>	
+		<td>1.8&nbsp;</td>	
+		<td>1.0&nbsp;</td>	
+		<td>&nbsp;</td>	
+		<td>0.00&nbsp;</td>	
+		<td>&nbsp;</td>
+	 </tr>
+	 
+	 
+	 <tr>
+		<td nowrap="">2</td>
+		<td>947.1&nbsp;</td>
+		<td>1016.4&nbsp;</td>
+		<td>20.8&nbsp;</td>	
+		<td>19.3&nbsp;</td>	
+		<td>91&nbsp;</td>	
+		<td>6.0&nbsp;</td>	
+		<td>10&nbsp;</td>	
+		<td>13.7&nbsp;</td>	
+		<td>10&nbsp;</td>	
+		<td>1.6&nbsp;</td>	
+		<td>1.0&nbsp;</td>	
+		<td>&nbsp;</td>	
+		<td>0.00&nbsp;</td>	
+		<td>&nbsp;</td>
+	 </tr>
+	 
+	 
+	 <tr>
+		<td nowrap="">3</td>
+		<td>947.0&nbsp;</td>
+		<td>1016.2&nbsp;</td>
+		<td>20.9&nbsp;</td>	
+		<td>19.3&nbsp;</td>	
+		<td>91&nbsp;</td>	
+		<td>4.4&nbsp;</td>	
+		<td>20&nbsp;</td>	
+		<td>11.7&nbsp;</td>	
+		<td>350&nbsp;</td>	
+		<td>0.5&nbsp;</td>	
+		<td>1.0&nbsp;</td>	
+		<td>&nbsp;</td>	
+		<td>0.00&nbsp;</td>	
+		<td>&nbsp;</td>
+	 </tr>
+	 
+	 
+	 <tr>
+		<td nowrap="">4</td>
+		<td>946.3&nbsp;</td>
+		<td>1015.5&nbsp;</td>
+		<td>21.0&nbsp;</td>	
+		<td>19.5&nbsp;</td>	
+		<td>91&nbsp;</td>	
+		<td>5.8&nbsp;</td>	
+		<td>10&nbsp;</td>	
+		<td>12.0&nbsp;</td>	
+		<td>360&nbsp;</td>	
+		<td>0.1&nbsp;</td>	
+		<td>1.0&nbsp;</td>	
+		<td>&nbsp;</td>	
+		<td>0.00&nbsp;</td>	
+		<td>&nbsp;</td>
+	 </tr>
+	 
+	 
+	 <tr>
+		<td nowrap="">5</td>
+		<td>946.8&nbsp;</td>
+		<td>1016.0&nbsp;</td>
+		<td>21.1&nbsp;</td>	
+		<td>19.5&nbsp;</td>	
+		<td>91&nbsp;</td>	
+		<td>3.7&nbsp;</td>	
+		<td>10&nbsp;</td>	
+		<td>12.3&nbsp;</td>	
+		<td>360&nbsp;</td>	
+		<td>0.2&nbsp;</td>	
+		<td>1.0&nbsp;</td>	
+		<td>&nbsp;</td>	
+		<td>0.00&nbsp;</td>	
+		<td>7.0&nbsp;</td>
+	 </tr>
+	 
+	 
+	 <tr>
+		<td nowrap="">6</td>
+		<td>946.9&nbsp;</td>
+		<td>1016.1&nbsp;</td>
+		<td>21.2&nbsp;</td>	
+		<td>19.6&nbsp;</td>	
+		<td>91&nbsp;</td>	
+		<td>2.4&nbsp;</td>	
+		<td>60&nbsp;</td>	
+		<td>8.4&nbsp;</td>	
+		<td>30&nbsp;</td>	
+		<td>0.6&nbsp;</td>	
+		<td>1.0&nbsp;</td>	
+		<td>0.0&nbsp;</td>	
+		<td>0.00&nbsp;</td>	
+		<td>&nbsp;</td>
+	 </tr>
+	 
+	 
+	 <tr>
+		<td nowrap="">7</td>
+		<td>947.5&nbsp;</td>
+		<td>1016.7&nbsp;</td>
+		<td>21.3&nbsp;</td>	
+		<td>19.5&nbsp;</td>	
+		<td>89&nbsp;</td>	
+		<td>2.7&nbsp;</td>	
+		<td>30&nbsp;</td>	
+		<td>7.8&nbsp;</td>	
+		<td>360&nbsp;</td>	
+		<td>0.8&nbsp;</td>	
+		<td>1.0&nbsp;</td>	
+		<td>0.0&nbsp;</td>	
+		<td>0.00&nbsp;</td>	
+		<td>&nbsp;</td>
+	 </tr>
+	 
+	 
+	 <tr>
+		<td nowrap="">8</td>
+		<td>947.8&nbsp;</td>
+		<td>1016.9&nbsp;</td>
+		<td>21.6&nbsp;</td>	
+		<td>19.8&nbsp;</td>	
+		<td>90&nbsp;</td>	
+		<td>1.6&nbsp;</td>	
+		<td>30&nbsp;</td>	
+		<td>9.4&nbsp;</td>	
+		<td>360&nbsp;</td>	
+		<td>0.4&nbsp;</td>	
+		<td>1.0&nbsp;</td>	
+		<td>0.0&nbsp;</td>	
+		<td>0.06&nbsp;</td>	
+		<td>7.0&nbsp;</td>
+	 </tr>
+	 
+	 
+	 <tr>
+		<td nowrap="">9</td>
+		<td>948.1&nbsp;</td>
+		<td>1017.2&nbsp;</td>
+		<td>21.9&nbsp;</td>	
+		<td>20.0&nbsp;</td>	
+		<td>89&nbsp;</td>	
+		<td>2.0&nbsp;</td>	
+		<td>40&nbsp;</td>	
+		<td>7.3&nbsp;</td>	
+		<td>30&nbsp;</td>	
+		<td>0.3&nbsp;</td>	
+		<td>1.0&nbsp;</td>	
+		<td>0.0&nbsp;</td>	
+		<td>0.39&nbsp;</td>	
+		<td>10.0&nbsp;</td>
+	 </tr>
+	 
+	 
+	 <tr>
+		<td nowrap="">10</td>
+		<td>947.4&nbsp;</td>
+		<td>1016.0&nbsp;</td>
+		<td>23.5&nbsp;</td>	
+		<td>20.8&nbsp;</td>	
+		<td>85&nbsp;</td>	
+		<td>3.5&nbsp;</td>	
+		<td>20&nbsp;</td>	
+		<td>11.2&nbsp;</td>	
+		<td>340&nbsp;</td>	
+		<td>T&nbsp;</td>	
+		<td>0.3&nbsp;</td>	
+		<td>0.4&nbsp;</td>	
+		<td>1.47&nbsp;</td>	
+		<td>&nbsp;</td>
+	 </tr>
+	 
+	 
+	 <tr>
+		<td nowrap="">11</td>
+		<td>946.7&nbsp;</td>
+		<td>1015.1&nbsp;</td>
+		<td>24.3&nbsp;</td>	
+		<td>20.7&nbsp;</td>	
+		<td>80&nbsp;</td>	
+		<td>4.2&nbsp;</td>	
+		<td>10&nbsp;</td>	
+		<td>13.3&nbsp;</td>	
+		<td>350&nbsp;</td>	
+		<td>0.0&nbsp;</td>	
+		<td>0.0&nbsp;</td>	
+		<td>1.0&nbsp;</td>	
+		<td>3.07&nbsp;</td>	
+		<td>10.0&nbsp;</td>
+	 </tr>
+	 
+	 
+	 <tr>
+		<td nowrap="">12</td>
+		<td>946.4&nbsp;</td>
+		<td>1014.7&nbsp;</td>
+		<td>24.6&nbsp;</td>	
+		<td>20.4&nbsp;</td>	
+		<td>77&nbsp;</td>	
+		<td>3.4&nbsp;</td>	
+		<td>30&nbsp;</td>	
+		<td>11.0&nbsp;</td>	
+		<td>350&nbsp;</td>	
+		<td>0.0&nbsp;</td>	
+		<td>0.0&nbsp;</td>	
+		<td>1.0&nbsp;</td>	
+		<td>3.32&nbsp;</td>	
+		<td>&nbsp;</td>
+	 </tr>
+	 
+	 
+	 <tr>
+		<td nowrap="">13</td>
+		<td>945.9&nbsp;</td>
+		<td>1014.2&nbsp;</td>
+		<td>24.4&nbsp;</td>	
+		<td>20.7&nbsp;</td>	
+		<td>80&nbsp;</td>	
+		<td>1.7&nbsp;</td>	
+		<td>40&nbsp;</td>	
+		<td>7.7&nbsp;</td>	
+		<td>60&nbsp;</td>	
+		<td>0.0&nbsp;</td>	
+		<td>0.0&nbsp;</td>	
+		<td>0.8&nbsp;</td>	
+		<td>2.84&nbsp;</td>	
+		<td>&nbsp;</td>
+	 </tr>
+	 
+	 
+	 <tr>
+		<td nowrap="">14</td>
+		<td>945.6&nbsp;</td>
+		<td>1013.9&nbsp;</td>
+		<td>24.5&nbsp;</td>	
+		<td>20.3&nbsp;</td>	
+		<td>77&nbsp;</td>	
+		<td>1.2&nbsp;</td>	
+		<td>40&nbsp;</td>	
+		<td>7.2&nbsp;</td>	
+		<td>70&nbsp;</td>	
+		<td>0.0&nbsp;</td>	
+		<td>0.0&nbsp;</td>	
+		<td>0.6&nbsp;</td>	
+		<td>2.14&nbsp;</td>	
+		<td>14.0&nbsp;</td>
+	 </tr>
+	 
+	 
+	 <tr>
+		<td nowrap="">15</td>
+		<td>945.3&nbsp;</td>
+		<td>1013.5&nbsp;</td>
+		<td>24.5&nbsp;</td>	
+		<td>20.3&nbsp;</td>	
+		<td>77&nbsp;</td>	
+		<td>1.8&nbsp;</td>	
+		<td>30&nbsp;</td>	
+		<td>5.9&nbsp;</td>	
+		<td>10&nbsp;</td>	
+		<td>0.0&nbsp;</td>	
+		<td>0.0&nbsp;</td>	
+		<td>0.8&nbsp;</td>	
+		<td>2.20&nbsp;</td>	
+		<td>&nbsp;</td>
+	 </tr>
+	 
+	 
+	 <tr>
+		<td nowrap="">16</td>
+		<td>945.5&nbsp;</td>
+		<td>1013.8&nbsp;</td>
+		<td>24.2&nbsp;</td>	
+		<td>19.8&nbsp;</td>	
+		<td>76&nbsp;</td>	
+		<td>2.3&nbsp;</td>	
+		<td>50&nbsp;</td>	
+		<td>8.2&nbsp;</td>	
+		<td>30&nbsp;</td>	
+		<td>0.0&nbsp;</td>	
+		<td>0.0&nbsp;</td>	
+		<td>0.9&nbsp;</td>	
+		<td>1.59&nbsp;</td>	
+		<td>&nbsp;</td>
+	 </tr>
+	 
+	 
+	 <tr>
+		<td nowrap="">17</td>
+		<td>945.4&nbsp;</td>
+		<td>1013.9&nbsp;</td>
+		<td>23.6&nbsp;</td>	
+		<td>19.3&nbsp;</td>	
+		<td>77&nbsp;</td>	
+		<td>2.6&nbsp;</td>	
+		<td>20&nbsp;</td>	
+		<td>8.2&nbsp;</td>	
+		<td>10&nbsp;</td>	
+		<td>0.0&nbsp;</td>	
+		<td>0.0&nbsp;</td>	
+		<td>1.0&nbsp;</td>	
+		<td>0.75&nbsp;</td>	
+		<td>15.0&nbsp;</td>
+	 </tr>
+	 
+	 
+	 <tr>
+		<td nowrap="">18</td>
+		<td>945.4&nbsp;</td>
+		<td>1014.1&nbsp;</td>
+		<td>22.7&nbsp;</td>	
+		<td>19.5&nbsp;</td>	
+		<td>82&nbsp;</td>	
+		<td>3.0&nbsp;</td>	
+		<td>20&nbsp;</td>	
+		<td>8.4&nbsp;</td>	
+		<td>10&nbsp;</td>	
+		<td>0.0&nbsp;</td>	
+		<td>0.0&nbsp;</td>	
+		<td>0.3&nbsp;</td>	
+		<td>0.00&nbsp;</td>	
+		<td>&nbsp;</td>
+	 </tr>
+	 
+	 
+	 <tr>
+		<td nowrap="">19</td>
+		<td>946.2&nbsp;</td>
+		<td>1014.9&nbsp;</td>
+		<td>22.8&nbsp;</td>	
+		<td>19.7&nbsp;</td>	
+		<td>83&nbsp;</td>	
+		<td>2.1&nbsp;</td>	
+		<td>20&nbsp;</td>	
+		<td>7.6&nbsp;</td>	
+		<td>360&nbsp;</td>	
+		<td>0.0&nbsp;</td>	
+		<td>0.0&nbsp;</td>	
+		<td>0.0&nbsp;</td>	
+		<td>0.00&nbsp;</td>	
+		<td>&nbsp;</td>
+	 </tr>
+	 
+	 
+	 <tr>
+		<td nowrap="">20</td>
+		<td>947.0&nbsp;</td>
+		<td>1015.7&nbsp;</td>
+		<td>22.9&nbsp;</td>	
+		<td>20.1&nbsp;</td>	
+		<td>84&nbsp;</td>	
+		<td>1.8&nbsp;</td>	
+		<td>30&nbsp;</td>	
+		<td>7.5&nbsp;</td>	
+		<td>350&nbsp;</td>	
+		<td>0.0&nbsp;</td>	
+		<td>0.0&nbsp;</td>	
+		<td>&nbsp;</td>	
+		<td>0.00&nbsp;</td>	
+		<td>15.0&nbsp;</td>
+	 </tr>
+	 
+	 
+	 <tr>
+		<td nowrap="">21</td>
+		<td>947.3&nbsp;</td>
+		<td>1016.1&nbsp;</td>
+		<td>22.9&nbsp;</td>	
+		<td>20.4&nbsp;</td>	
+		<td>86&nbsp;</td>	
+		<td>1.8&nbsp;</td>	
+		<td>20&nbsp;</td>	
+		<td>6.8&nbsp;</td>	
+		<td>70&nbsp;</td>	
+		<td>0.0&nbsp;</td>	
+		<td>0.0&nbsp;</td>	
+		<td>&nbsp;</td>	
+		<td>0.00&nbsp;</td>	
+		<td>15.0&nbsp;</td>
+	 </tr>
+	 
+	 
+	 <tr>
+		<td nowrap="">22</td>
+		<td>947.3&nbsp;</td>
+		<td>1016.0&nbsp;</td>
+		<td>23.1&nbsp;</td>	
+		<td>20.5&nbsp;</td>	
+		<td>85&nbsp;</td>	
+		<td>1.5&nbsp;</td>	
+		<td>20&nbsp;</td>	
+		<td>7.5&nbsp;</td>	
+		<td>40&nbsp;</td>	
+		<td>0.0&nbsp;</td>	
+		<td>0.0&nbsp;</td>	
+		<td>&nbsp;</td>	
+		<td>0.00&nbsp;</td>	
+		<td>&nbsp;</td>
+	 </tr>
+	 
+	 
+	 <tr>
+		<td nowrap="">23</td>
+		<td>947.2&nbsp;</td>
+		<td>1015.9&nbsp;</td>
+		<td>23.2&nbsp;</td>	
+		<td>20.7&nbsp;</td>	
+		<td>86&nbsp;</td>	
+		<td>2.1&nbsp;</td>	
+		<td>20&nbsp;</td>	
+		<td>7.0&nbsp;</td>	
+		<td>360&nbsp;</td>	
+		<td>0.0&nbsp;</td>	
+		<td>0.0&nbsp;</td>	
+		<td>&nbsp;</td>	
+		<td>0.00&nbsp;</td>	
+		<td>&nbsp;</td>
+	 </tr>
+	 
+	 
+	 <tr>
+		<td nowrap="">24</td>
+		<td>947.0&nbsp;</td>
+		<td>1015.7&nbsp;</td>
+		<td>23.0&nbsp;</td>	
+		<td>20.6&nbsp;</td>	
+		<td>86&nbsp;</td>	
+		<td>1.9&nbsp;</td>	
+		<td>20&nbsp;</td>	
+		<td>7.5&nbsp;</td>	
+		<td>350&nbsp;</td>	
+		<td>0.0&nbsp;</td>	
+		<td>0.0&nbsp;</td>	
+		<td>&nbsp;</td>	
+		<td>0.00&nbsp;</td>	
+		<td>&nbsp;</td>
+	 </tr>
+	 		
+	 </tbody>
+	</table>
+	<label class="imp"></label>
